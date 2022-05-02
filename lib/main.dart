@@ -31,6 +31,18 @@ class _MyHomePageState extends State<MyHomePage> {
     "assets/images/promo1.jpg",
     "assets/images/logo.jpg",
     "assets/images/promo2.jpg",
+    "assets/images/menu1.jpg",
+    "assets/images/sucursal1.jpg",
+    "assets/images/men2.jpg",
+    "assets/images/promo1.jpg",
+    "assets/images/logo.jpg",
+    "assets/images/promo2.jpg",
+    "assets/images/menu1.jpg",
+    "assets/images/sucursal1.jpg",
+    "assets/images/men2.jpg",
+    "assets/images/promo1.jpg",
+    "assets/images/logo.jpg",
+    "assets/images/promo2.jpg",
   ];
   @override
   Widget build(BuildContext context) {
