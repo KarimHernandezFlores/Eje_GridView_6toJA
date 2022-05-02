@@ -13,7 +13,7 @@ class KFCApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.red,
         ),
-        home: PaginaInicial());
+        home: Pagi());
   } //
 } //Widget sin estado
 
