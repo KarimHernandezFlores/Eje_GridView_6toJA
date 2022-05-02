@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(KFCApp());
 } //Funcion principal
 
-class MyApp extends StatelessWidget {
+class KFCApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.red,
         ),
-        home: MyHomePage());
+        home: Pagi());
   } //
 } //Widget sin estado
 
@@ -25,6 +25,18 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   List<String> images = [
+    "assets/images/menu1.jpg",
+    "assets/images/sucursal1.jpg",
+    "assets/images/men2.jpg",
+    "assets/images/promo1.jpg",
+    "assets/images/logo.jpg",
+    "assets/images/promo2.jpg",
+    "assets/images/menu1.jpg",
+    "assets/images/sucursal1.jpg",
+    "assets/images/men2.jpg",
+    "assets/images/promo1.jpg",
+    "assets/images/logo.jpg",
+    "assets/images/promo2.jpg",
     "assets/images/menu1.jpg",
     "assets/images/sucursal1.jpg",
     "assets/images/men2.jpg",
