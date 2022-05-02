@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(KFCApp());
 } //Funcion principal
 
-class MyApp extends StatelessWidget {
+class KFCApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
